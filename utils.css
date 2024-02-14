@@ -1,0 +1,29 @@
+.flex{
+    display: flex;
+}
+.justify-center{
+    justify-items:center;
+}
+.align-center{
+    align-items: center;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.semibold{
+    font-weight:600
+}
+.mx-2{
+    margin-left:12px;
+    margin-right:12px;
+}
+.collection{
+    display: flex;
+    justify-content:center;
+
+}
+.listhead{
+    font-weight: bold;
+    padding-bottom:20px;
+    padding-top:20px;
+}
